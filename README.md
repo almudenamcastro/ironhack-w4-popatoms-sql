@@ -19,7 +19,7 @@ This project aims to analyze the major musical hits of the past 50 years to unde
 Presentation with more info: https://www.canva.com/design/DAGQjz4IelY/GuO8nIyDawsMBsXLvI5mQA/view?utm_content=DAGQjz4IelY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
-![ERD](image.png)
+![ERD](0_ERD.png)
 
 ## Project content
 ### 📁 Files Structure
